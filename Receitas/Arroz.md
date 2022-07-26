@@ -19,3 +19,7 @@
 4. Abaixe o fogo e deixe cozinhar até a água quase secar
 5. Tampe a panela e aguarde cerca de 20 minutos antes de servir.
 6. Se desejar fazer mais, é só seguir as proporções, principalmente da água.
+
+---
+
+[⏮️ Lista de receitas](/README.md)
