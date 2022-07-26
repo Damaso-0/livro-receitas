@@ -23,3 +23,6 @@
 7. Deixe o forno preaquecer na temperatura de 180 graus.
 8. Coloque a assadeira no forno e deixe por 40 minutos ou até os filés ficarem dourados.
 9. Retire e sirva.
+
+
+_[Lista de receitas](livro-receitas/README.md)_
