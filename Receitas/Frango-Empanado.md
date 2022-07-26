@@ -25,4 +25,4 @@
 9. Retire e sirva.
 
 
-_[⏮️ Lista de receitas](livro-receitas/README.md)_
+_[⏮️ Lista de receitas](/README.md)_
