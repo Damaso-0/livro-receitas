@@ -1,6 +1,6 @@
 # Frango empanado:poultry_leg:
 
-**Igredientes**
+**Ingredientes**
 
 - 500 gramas de filé sassami de frango
 - Sal a gosto
