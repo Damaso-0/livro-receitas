@@ -2,4 +2,4 @@
 
 Olá! Bem vindo ao meu livro de receitas:wave:
 
-- [Arroz](./livro-receitas/receitas/arroz.md)
+- [Arroz](.livro-receitas/Receitas/Arroz.md)
