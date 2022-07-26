@@ -24,6 +24,6 @@
 8. Coloque a assadeira no forno e deixe por 40 minutos ou até os filés ficarem dourados.
 9. Retire e sirva.
 
-
+---
 
 _[⏮️ Lista de receitas](/README.md)_
