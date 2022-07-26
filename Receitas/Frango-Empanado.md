@@ -26,4 +26,4 @@
 
 ---
 
-_[⏮️ Lista de receitas](/README.md)_
+[⏮️ Lista de receitas](/README.md)
